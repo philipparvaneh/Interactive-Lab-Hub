@@ -59,16 +59,16 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
  
 \*\***Describe your setting, players, activity and goals here.**\*\*
  
-\*\***My idea/concept is for SafteyFirst Phone Case. Utilizing a user’s geolocation, we can help protect the safety of the user by alerting them of nearby collisions when using their mobile devices. There is a common issue in the modern day, where people are so distracted with their devices that when walking they are not alert of their surroundings and can lead to accidents. Whether the accident is walking into nearby pedestrians, walking into oncoming traffic, or any safety hazard. With SF Phone case, we can flash an LED light around the user’s screen to alert the user they should look up. For aesthetics, a user can customize the lighting and colors from either their phone application or desktop and from an entrepreneurship spirit we can also make it a portable charger for dual purpose.**\*\*
+My idea/concept is for SafteyFirst Phone Case. Utilizing a user’s geolocation, we can help protect the safety of the user by alerting them of nearby collisions when using their mobile devices. There is a common issue in the modern day, where people are so distracted with their devices that when walking they are not alert of their surroundings and can lead to accidents. Whether the accident is walking into nearby pedestrians, walking into oncoming traffic, or any safety hazard. With SF Phone case, we can flash an LED light around the user’s screen to alert the user they should look up. For aesthetics, a user can customize the lighting and colors from either their phone application or desktop and from an entrepreneurship spirit we can also make it a portable charger for dual purpose.
  
 \*\***Include pictures of your storyboards here**\*\*
 
-
+Please see attached uploaded picture
  
  
 \*\***Summarize feedback you got here.**\*\*
  
-\*\***When brainstorming the idea for SafteyFirst Phone Case, it came to me from my research in my product studio group. Our group's topic is focusing on geolocation/privacy and with that mindset saw nearby students all walking by with headphones on and faces glued to their device screens. I proposed the idea as a mobile application that runs in the user's background that would present a notification or a flashing color on the screen as the alert method. The feedback from my team provided the insight that users may not want the interference with their screen from what they are currently focusing on. With that feedback, I came up with the concept of the phone case to illuminate the border of the phone instead of on-screen notification. **\*\*
+When brainstorming the idea for SafteyFirst Phone Case, it came to me from my research in my product studio group. Our group's topic is focusing on geolocation/privacy and with that mindset saw nearby students all walking by with headphones on and faces glued to their device screens. I proposed the idea as a mobile application that runs in the user's background that would present a notification or a flashing color on the screen as the alert method. The feedback from my team provided the insight that users may not want the interference with their screen from what they are currently focusing on. With that feedback, I came up with the concept of the phone case to illuminate the border of the phone instead of on-screen notification.
  
  
  
@@ -76,32 +76,32 @@ Labs are due on Mondays. Make sure this page is linked to on your main class hub
  
 \*\***Are there things that seemed better on paper than acted out?**\*\*
  
-\*\***No I do not believe so in this case. The video was similar to the storyboard so it was essentially the same concept essentially.**\*\*
+No I do not believe so in this case. The video was similar to the storyboard so it was essentially the same concept essentially.
  
 \*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
  
-\*\***No, same as above. The video seemed a bit trivial, however, the brainstorm and feedback was most useful**\*\*
+No, same as above. The video seemed a bit trivial, however, the brainstorm and feedback was most useful
  
  
 ## Part C. Prototype the device
  
 \*\***Give us feedback on Tinkerbelle.**\*\*
  
-\*\***Thought it was a great fun activity to help students get environment setup done properly, as well, provide us with a tangible application we are able to run on our own devices. As a technical person, I loved seeing the actual code to run an application like this, and will love to use this as a backbone for side passion projects for fun.**\*\*
+Thought it was a great fun activity to help students get environment setup done properly, as well, provide us with a tangible application we are able to run on our own devices. As a technical person, I loved seeing the actual code to run an application like this, and will love to use this as a backbone for side passion projects for fun.
  
  
 ## Part D. Wizard the device
  
 \*\***Include your first attempts at recording the set-up video here.**\*\*
  
-\*\***For the wizarding aspect of the video, I downloaded the app Screen Light Color off the Apple App Store.**\*\*
+For the wizarding aspect of the video, I downloaded the app Screen Light Color off the Apple App Store.
  
  
 ## Part E. Costume the device
  
 \*\***Include sketches of what your devices might look like here.**\*\*
 
-\*\***Due to my poor artistic abilities, I thought these images better presented my idea than my hand drawn blueprints. I think I would like the light to be the border of the screen rather than the side of the case. 
+Due to my poor artistic abilities, I thought these images better presented my idea than my hand drawn blueprints. I think I would like the light to be the border of the screen rather than the side of the case. Please see attached uploaded pictures.
 
 Images sourced from:
 
@@ -111,23 +111,24 @@ https://play.google.com/store/apps/details?id=com.edgeround.lightingcolors.rgb&h
  
 https://www.esbenshades.com/lumenplay-starter-set-12-rgb-ul-led-string-lights-app-controlled-various-colors-green-wire-12-5/ 
  
-**\*\*
  
  
 \*\***What concerns or opportunities are influencing the way you've designed the device to look?**\*\*
-\*\***As previously mentioned, the first concept was for an on-screen alert application, but from team feedback there was a possible issue with unwanted screen interference. So I pivoted to the phone case design and that also has possible concerns with battery power. **\*\*
+As previously mentioned, the first concept was for an on-screen alert application, but from team feedback there was a possible issue with unwanted screen interference. So I pivoted to the phone case design and that also has possible concerns with battery power. 
  
  
 ## Part F. Record
  
 \*\***Take a video of your prototyped interaction.**\*\*
+
+Please see attached video uploaded, also linked below
  
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
  
-\*\***Before SF: https://www.youtube.com/watch?v=tm2lfv3_ELc 
-	After SF: https://youtu.be/7gYvMSPMHb4 (Lineker - cameraman) 
+Before SF: https://www.youtube.com/watch?v=tm2lfv3_ELc (from Nat Geo short documentary)
+After SF: https://youtu.be/7gYvMSPMHb4 (Lineker - cameraman) 
  
-**\*\*
+
  
  
  
