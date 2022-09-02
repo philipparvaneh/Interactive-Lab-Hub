@@ -155,7 +155,7 @@ You will be assigned three partners from another group. Go to their github pages
  
 \*\***Summarize feedback from your partners here.**\*\*
 
-The feedback on receieved on SF and my 'attempt' at video production was that they loved the idea itself. They believed it was well thought out and there was a much need high demand for a product like this in modern day. The useful takeaways was that the viewer was confused by if it was a constant notifcation or if user had ability to turn on and off. In my description above, I had stated that there would be an on and off functionality the user can utilized. For the example of someone waiting in traffic will it be going off constantly, I think a possible solution be a gradiant approach so you know distant of incoming object. They also commented on the video itself, seemed my phone did not show the bright flash as the ywould have liked. I will try to emphasis this in next project.
+The feedback I received on SF and my 'attempt' at video production was that they loved the idea itself. They believed it was well thought out and there was a much need high demand for a product like this in modern day. The useful takeaway was that the viewer was confused by if it was a constant notification or if the user had ability to turn on and off. In my description above, I had stated that there would be an on and off functionality the user can utilized. For the example of someone waiting in traffic will it be going off constantly, I think a possible solution would be a gradient approach so you know the distance of the incoming object. They also commented on the video itself, as it seemed my phone did not show the bright flash as they would have liked. I will try to emphasis this in next project.
  
 ## Make it your own
  
