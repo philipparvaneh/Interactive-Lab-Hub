@@ -120,14 +120,17 @@ As previously mentioned, the first concept was for an on-screen alert applicatio
 ## Part F. Record
  
 \*\***Take a video of your prototyped interaction.**\*\*
-
-Please see attached video uploaded, also linked below
  
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
  
 Before SF: https://www.youtube.com/watch?v=tm2lfv3_ELc (from Nat Geo short documentary)
 After SF: https://youtu.be/7gYvMSPMHb4 (Lineker - cameraman) 
- 
+
+
+
+https://user-images.githubusercontent.com/111994216/188234557-a789ec00-c0d7-4095-9cbf-042d55cf189d.mov
+
+
 
  
  
