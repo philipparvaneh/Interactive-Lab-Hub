@@ -101,7 +101,13 @@ For the wizarding aspect of the video, I downloaded the app Screen Light Color o
  
 \*\***Include sketches of what your devices might look like here.**\*\*
 
-Due to my poor artistic abilities, I thought these images better presented my idea than my hand drawn blueprints. I think I would like the light to be the border of the screen rather than the side of the case. Please see attached uploaded pictures.
+Due to my poor artistic abilities, I thought these images better presented my idea than my hand drawn blueprints. I think I would like the light to be the border of the screen rather than the side of the case. 
+
+![design1-LedPhoneCase](https://user-images.githubusercontent.com/111994216/188235085-d483e447-0368-4dc7-b9ed-c3a6527c9089.png)
+
+![design2-ledBoarder](https://user-images.githubusercontent.com/111994216/188234945-366cd60d-6090-4697-8468-6d324504148b.png)
+
+![design3-UI-dashboard](https://user-images.githubusercontent.com/111994216/188235012-429cb761-c25d-4689-a61e-0d7dc1c21853.png)
 
 Images sourced from:
 
