@@ -163,7 +163,93 @@ Do last week’s assignment again, but this time:
 1) It doesn’t have to (just) use light,
 2) You can use any modality (e.g., vibration, sound) to prototype the behaviors! Again, be creative! Feel free to fork and modify the tinkerbell code!
 3) We will be grading with an emphasis on creativity.
+
+# ---------------------------------------
+# ---------------------------------------
  
-\*\***Document everything here. (Particularly, we would like to see the storyboard and video, although photos of the prototype are also great.)**\*\*
+ # SafetyFirst PhoneCase Ideation pt. 2
+
  
+## Part A. Plan
+ 
+\*\***Describe your setting, players, activity and goals here.**\*\*
+
+In this iteration of SF PC, I have brainstormed some new feautres of the product based on feedback provided by my classmates. With the new changes implemented, the SF PC will be able to use different lights as a warning for different incoming, hazardous objects. For example, if the user is approaching a busy street with incoming traffic, the phone will glow yellow and the closer you get to the danger the brighter it will glow. For a body of water can represent water danger, red for a constustion hazard, and etc. This colors will be able to be choosen and set by the user from the applications dashboard. Also with this new feature, we can implment a vibration and sound notification as well if the user is in immement danger. 
+
+ 
+\*\***Include pictures of your storyboards here**\*\*
+
+![Storyboard2 0-pic1](https://user-images.githubusercontent.com/111994216/188281917-2a902ace-c096-413f-9f46-4874970356d9.png)
+
+![Storyboard2 0-pic2](https://user-images.githubusercontent.com/111994216/188281930-07ef448e-9ca5-4cf1-8973-862f48c73c4e.png)
+
+![Storyboard2 0-pic3](https://user-images.githubusercontent.com/111994216/188281932-62f02d3d-ec24-44ab-8598-8dab43ad5726.png)
+
+ 
+
+ 
+\*\***Summarize feedback you got here.**\*\*
+ 
+When brainstorming the idea for SafteyFirst Phone Case, it came to me from my research in my product studio group. Our group's topic is focusing on geolocation/privacy and with that mindset saw nearby students all walking by with headphones on and faces glued to their device screens. I proposed the idea as a mobile application that runs in the user's background that would present a notification or a flashing color on the screen as the alert method. The feedback from my team provided the insight that users may not want the interference with their screen from what they are currently focusing on. With that feedback, I came up with the concept of the phone case to illuminate the border of the phone instead of on-screen notification.
+ 
+ 
+ 
+## Part B. Act out the Interaction
+ 
+\*\***Are there things that seemed better on paper than acted out?**\*\*
+ 
+No I do not believe so in this case. The video was similar to the storyboard so it was essentially the same concept essentially.
+ 
+\*\***Are there new ideas that occur to you or your collaborators that come up from the acting?**\*\*
+ 
+No, same as above. The video seemed a bit trivial, however, the brainstorm and feedback was most useful
+ 
+ 
+## Part C. Prototype the device
+ 
+\*\***Give us feedback on Tinkerbelle.**\*\*
+ 
+Thought it was a great fun activity to help students get environment setup done properly, as well, provide us with a tangible application we are able to run on our own devices. As a technical person, I loved seeing the actual code to run an application like this, and will love to use this as a backbone for side passion projects for fun.
+ 
+ 
+## Part D. Wizard the device
+ 
+\*\***Include your first attempts at recording the set-up video here.**\*\*
+ 
+For the wizarding aspect of the video, I used the tinkerbelle application provided to us to change the color notification 
+ 
+ 
+## Part E. Costume the device
+ 
+\*\***Include sketches of what your devices might look like here.**\*\*
+
+Due to my poor artistic abilities, I thought these images better presented my idea than my hand drawn blueprints. I think I would like the light to be the border of the screen rather than the side of the case. 
+
+![design1-LedPhoneCase](https://user-images.githubusercontent.com/111994216/188235085-d483e447-0368-4dc7-b9ed-c3a6527c9089.png)
+
+![design2-ledBoarder](https://user-images.githubusercontent.com/111994216/188234945-366cd60d-6090-4697-8468-6d324504148b.png)
+
+![design3-UI-dashboard](https://user-images.githubusercontent.com/111994216/188235012-429cb761-c25d-4689-a61e-0d7dc1c21853.png)
+
+Images sourced from:
+
+ https://extreme-gear.com/product/iphone-11-turbo-edition-gs/?gclid=CjwKCAjwx7GYBhB7EiwA0d8oe2s8mG3UHAKjhbXUO6Rl2dDSBHBbF5uGRuu3OTGdtVgkM2yVu_UN3RoC3cMQAvD_BwE
+ 
+https://play.google.com/store/apps/details?id=com.edgeround.lightingcolors.rgb&hl=en_US&gl=US
+ 
+https://www.esbenshades.com/lumenplay-starter-set-12-rgb-ul-led-string-lights-app-controlled-various-colors-green-wire-12-5/ 
+ 
+ 
+ 
+\*\***What concerns or opportunities are influencing the way you've designed the device to look?**\*\*
+As previously mentioned, the first concept was for an on-screen alert application, but from team feedback there was a possible issue with unwanted screen interference. So I pivoted to the phone case design and that also has possible concerns with battery power. 
+ 
+ 
+## Part F. Record
+ 
+\*\***Take a video of your prototyped interaction.**\*\*
+ 
+\*\***Please indicate anyone you collaborated with on this Lab.**\*\*
+ 
+
 
