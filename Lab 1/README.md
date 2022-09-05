@@ -248,6 +248,15 @@ From the first iteration, I really did like the design I displayed in part one. 
 \*\***Please indicate anyone you collaborated with on this Lab.**\*\*
  
  
+
+https://user-images.githubusercontent.com/111994216/188485379-33c9cc06-824e-4818-bac7-ead619fd2ac0.mov
+
+
+
+https://user-images.githubusercontent.com/111994216/188485358-9072ad1e-7ff0-4a43-b9d0-3fe3773f9688.mov
  
- 
+
+https://user-images.githubusercontent.com/111994216/188485371-7693fcbc-504c-4690-9ba7-8b93fff15cdf.mov
+
+
 
