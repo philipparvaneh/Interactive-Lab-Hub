@@ -260,6 +260,7 @@ https://user-images.githubusercontent.com/111994216/188485846-b6d9d549-9678-4bf8
 
 https://user-images.githubusercontent.com/111994216/188485371-7693fcbc-504c-4690-9ba7-8b93fff15cdf.mov
 
-Cameraman - Ryan (cousin)
-Feature actore - Campbell (cousin)
+Cameraman - Ryan (cousin) & 
+
+Feature actor- Campbell (cousin)
 
