@@ -67,12 +67,10 @@ while True:
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
 
     Top = "\u2193 \u2193 \u2193 \u2193 \u2193 \u2193"
-    m1 = strftime("%m/%d/%Y")
-    m2 = strftime("%H:%M:%S")
+    m1 = time.strftime("%m/%d/%Y")
+    m2 = time.strftime("%H:%M:%S")
     Bottom = "\u2191 \u2191 \u2191 \u2191 \u2191 \u2191"
 
-    print(m1)
-    print(m2)
     y = top
     draw.text((x,y), Top, font=font, fill="#FFFFFF")
     y += font.getsize(Top)[1]
