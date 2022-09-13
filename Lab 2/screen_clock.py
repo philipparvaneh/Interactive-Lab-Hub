@@ -66,6 +66,7 @@ buttonA = digitalio.DigitalInOut(board.D23)
 buttonB = digitalio.DigitalInOut(board.D24)
 buttonA.switch_to_input()
 buttonB.switch_to_input()
+y = top
 
 while True:
     # Draw a black filled box to clear the image.
@@ -85,7 +86,6 @@ while True:
     if not buttonA.value and not buttonB.value:  # none pressed
         m1 = time.strftime("%m/%d/%Y")
         m2 = time.strftime("%H:%M:%S")
-        y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#0000FF")
