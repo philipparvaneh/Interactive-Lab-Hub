@@ -79,12 +79,14 @@ while True:
     if buttonB.value and not buttonA.value:  # just button A pressed
         m1 = "Sorry better luck"
         m2 = "next time XD"
+        y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#FFFF00")
     if buttonA.value and not buttonB.value:  # just button B pressed
         m1 = "Hahaha nope"
         m2 = "keep going"
+        y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#FFFF00")
@@ -101,7 +103,6 @@ while True:
         draw.text((x,y), m3, font=font, fill="#0000FF")
         y += font.getsize(m3)[1]
         draw.text((x,y), m4, font=font, fill="#0000FF")
-        y += font.getsize(m4)[1]
 
     # Display image.
     disp.image(image, rotation)
