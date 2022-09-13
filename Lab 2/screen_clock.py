@@ -79,8 +79,10 @@ while True:
     else:
         backlight.value = True  # turn on backlight
     if buttonB.value and not buttonA.value:  # just button A pressed
-        m1 = "Sorry better luck next time XD"
+        m1 = "Sorry better luck"
+        m2 = "next time XD"
         draw.text((x,y), m1, font=font, fill="#FFFF00")
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
     if buttonA.value and not buttonB.value:  # just button B pressed
         disp.fill(color565(255, 255, 255))  # set the screen to white
     if not buttonA.value and not buttonB.value:  # none pressed
