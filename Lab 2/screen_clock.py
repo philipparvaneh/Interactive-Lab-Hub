@@ -76,6 +76,12 @@ while True:
         backlight.value = False  # turn off backlight
     else:
         backlight.value = True 
+        m1 = "Sorry better luck"
+        m2 = "next time XD"
+        y = top
+        draw.text((x,y), m1, font=font, fill="#FFFF00")
+        y += font.getsize(m1)[1]
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
     if buttonB.value and not buttonA.value:  # just button A pressed
         m1 = "Sorry better luck"
         m2 = "next time XD"
