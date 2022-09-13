@@ -66,7 +66,6 @@ buttonA = digitalio.DigitalInOut(board.D23)
 buttonB = digitalio.DigitalInOut(board.D24)
 buttonA.switch_to_input()
 buttonB.switch_to_input()
-y = top
 
 while True:
     # Draw a black filled box to clear the image.
@@ -81,22 +80,31 @@ while True:
     if buttonB.value and not buttonA.value:  # just button A pressed
         m1 = "Sorry better luck"
         m2 = "next time XD"
+        y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#FFFF00")
     if buttonA.value and not buttonB.value:  # just button B pressed
         m1 = "Hahaha nope"
         m2 = "keep going"
+        y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#FFFF00")
     if not buttonA.value and not buttonB.value:  # none pressed
-        m1 = time.strftime("%m/%d/%Y")
-        m2 = time.strftime("%H:%M:%S")
+        m1 = "Congrats!!"
+        m2 = "The time is: "
+        m3 = time.strftime("%m/%d/%Y")
+        m4 = time.strftime("%H:%M:%S")
+        y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
-        draw.text((x,y), m2, font=font, fill="#0000FF")
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
         y += font.getsize(m2)[1]
+        draw.text((x,y), m3, font=font, fill="#0000FF")
+        y += font.getsize(m3)[1]
+        draw.text((x,y), m4, font=font, fill="#0000FF")
+        y += font.getsize(m4)[1]
 
     # Display image.
     disp.image(image, rotation)
