@@ -72,26 +72,27 @@ while True:
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
-
     if buttonA.value and buttonB.value:
         backlight.value = False  # turn off backlight
     else:
-        backlight.value = True  # turn on backlight
+        m1 = "Want to know the time?"
+        m2 = "Try to figure it out"
+        draw.text((x,y), m1, font=font, fill="#FFFF00")
+        y += font.getsize(m1)[1]
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
     if buttonB.value and not buttonA.value:  # just button A pressed
         m1 = "Sorry better luck"
         m2 = "next time XD"
-        y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#FFFF00")
     if buttonA.value and not buttonB.value:  # just button B pressed
         m1 = "Hahaha nope"
         m2 = "keep going"
-        y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#FFFF00")
-    if not buttonA.value and not buttonB.value:  # none pressed
+    if not buttonA.value and not buttonB.value:  # both pressed
         m1 = "Congrats!!"
         m2 = "The time is: "
         m3 = time.strftime("%m/%d/%Y")
