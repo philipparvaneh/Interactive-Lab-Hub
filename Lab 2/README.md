@@ -210,6 +210,8 @@ After that, Git will ask you to login to your GitHub account to push the updates
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
+Further enhancements I would like to my clock would be adding a virtual 'cuckoo' clock. At the start of each did would play an animation of cuckoo clock. Even further then that, as someone that loves music could take the basic virtual cuckoo clock concept to the next level by adding in audio and videos. For each individual hour, the clock would play a sound that reference that hour of the day. For example, at 9:00 pm it would play Billy Joel's Piano Man, "It's 9 o'clock on a Saturday..." and for 5:00 pm could play Jimmy Buffett's It's Five O'Clock Somewhere. Going deeper into that idea, could add at the start of each individual day by playing song related to that day. For example, friday you could play The Cure's Friday I'm in Love. When each of these songs would play, it would also play the music video on the monitor with the audio. 
+
 
 # Prep for Part 2
 
