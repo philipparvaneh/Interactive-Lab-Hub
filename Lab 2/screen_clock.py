@@ -73,8 +73,8 @@ while True:
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
     if buttonA.value and buttonB.value:
-        m1 = "Sorry better luck"
-        m2 = "next time XD"
+        m1 = "Want to know the time??"
+        m2 = "I'll tell you..."
         y = top
         draw.text((x,y), m1, font=font, fill="#FFFF00")
         y += font.getsize(m1)[1]
