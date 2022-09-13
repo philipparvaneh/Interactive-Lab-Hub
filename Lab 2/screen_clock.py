@@ -66,19 +66,14 @@ while True:
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
 
-    Top = "\u2193 \u2193 \u2193 \u2193 \u2193 \u2193"
     m1 = time.strftime("%m/%d/%Y")
     m2 = time.strftime("%H:%M:%S")
-    Bottom = "\u2191 \u2191 \u2191 \u2191 \u2191 \u2191"
 
     y = top
-    draw.text((x,y), Top, font=font, fill="#FFFFFF")
-    y += font.getsize(Top)[1]
     draw.text((x,y), m1, font=font, fill="#FFFF00")
     y += font.getsize(m1)[1]
     draw.text((x,y), m2, font=font, fill="#0000FF")
     y += font.getsize(m2)[1]
-    draw.text((x,y), Bottom, font=font, fill="#FFFFFF")
 
     # Display image.
     disp.image(image, rotation)
