@@ -73,9 +73,6 @@ while True:
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
     if buttonA.value and buttonB.value:
-        backlight.value = False  # turn off backlight
-    else:
-        backlight.value = True 
         m1 = "Sorry better luck"
         m2 = "next time XD"
         y = top
