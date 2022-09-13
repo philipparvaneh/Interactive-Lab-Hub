@@ -82,6 +82,7 @@ while True:
         m1 = "Sorry better luck"
         m2 = "next time XD"
         draw.text((x,y), m1, font=font, fill="#FFFF00")
+        y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#FFFF00")
     if buttonA.value and not buttonB.value:  # just button B pressed
         disp.fill(color565(255, 255, 255))  # set the screen to white
