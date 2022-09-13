@@ -85,7 +85,11 @@ while True:
         y += font.getsize(m1)[1]
         draw.text((x,y), m2, font=font, fill="#FFFF00")
     if buttonA.value and not buttonB.value:  # just button B pressed
-        disp.fill(color565(255, 255, 255))  # set the screen to white
+        m1 = "Hahaha nope"
+        m2 = "keep going"
+        draw.text((x,y), m1, font=font, fill="#FFFF00")
+        y += font.getsize(m1)[1]
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
     if not buttonA.value and not buttonB.value:  # none pressed
         m1 = time.strftime("%m/%d/%Y")
         m2 = time.strftime("%H:%M:%S")
