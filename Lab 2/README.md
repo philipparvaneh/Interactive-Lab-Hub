@@ -243,10 +243,11 @@ When designing our new digital clock, I was struggling finding an idea I was pas
 
 When I began mapping out the workflow map for the design, I started to realize all the different possibilities of button combinations and different paths that could be explored from adding those additional buttons. When drawing it out, I was iterating through the best way to display these values. 
 
-![image0](https://user-images.githubusercontent.com/111994216/191141533-a028f6a4-cb80-40fb-9784-461ca3f915fc.jpeg)
+
+![image2](https://user-images.githubusercontent.com/111994216/191141766-4a5cc9f6-624b-4163-a73a-8a40c32ac868.jpeg)
 
 ![image1](https://user-images.githubusercontent.com/111994216/191141760-3f3e1e93-ca9d-4160-9f49-f6640e4a4484.jpeg)
 
-![image2](https://user-images.githubusercontent.com/111994216/191141766-4a5cc9f6-624b-4163-a73a-8a40c32ac868.jpeg)
+![image0](https://user-images.githubusercontent.com/111994216/191141533-a028f6a4-cb80-40fb-9784-461ca3f915fc.jpeg)
 
 
