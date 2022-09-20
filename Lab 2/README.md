@@ -241,3 +241,12 @@ You are permitted (but not required) to work in groups and share a turn in; you 
 
 When designing our new digital clock, I was struggling finding an idea I was passionate about and worked in a beneficial use case. With nothing better that could come to mind, I had come up with the idea of JukeClock Hero, as described in the portion above, however, I was finding it difficult on the technical side to play the audio and video recordings as I would have liked. I could have used this as the base of the idea and done some video editing to film the “working demo” example, but when sharing my idea with my peers for feedback. They actually like my barebones interactive clock I had coded for fun as seen in the video above, rather than the JukeClock Hero idea. The video shows my digital interactive clock that is more of a maze game than a useful tool. The idea is that, by using different functionality for each button triggered on the pi, we could create hints or tips of the proper path to acquire the current time. Below, I have drawn out a possible path of the maze a user could go through. By creating this new interface, the user is required to interact with the clock in a fun way and by adding more buttons and sensors, the more complex paths we could create. I also had the idea of changing the input for multiple clicks of a button as well as adding images and videos at dead ends of the maze. Using these enhancements, we can create a very in-depth maze. 
 
+When I began mapping out the workflow map for the design, I started to realize all the different possibilities of button combinations and different paths that could be explored from adding those additional buttons. When drawing it out, I was iterating through the best way to display these values. 
+
+![image0](https://user-images.githubusercontent.com/111994216/191141533-a028f6a4-cb80-40fb-9784-461ca3f915fc.jpeg)
+
+![image1](https://user-images.githubusercontent.com/111994216/191141760-3f3e1e93-ca9d-4160-9f49-f6640e4a4484.jpeg)
+
+![image2](https://user-images.githubusercontent.com/111994216/191141766-4a5cc9f6-624b-4163-a73a-8a40c32ac868.jpeg)
+
+
