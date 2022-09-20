@@ -253,7 +253,7 @@ When I began mapping out the workflow map for the design, I started to realize a
 
 Find the Time Maze Game Design:
 
-![image0 (1)](https://user-images.githubusercontent.com/111994216/191142415-52c0b05d-c7cf-4b7c-bcc1-275a35ae8460.jpeg)
+![FindTheMaze](https://user-images.githubusercontent.com/111994216/191143011-6dbb226f-8179-46d3-8ad4-8cab7f91b123.png)
 
 
 When going through the design phase, I had a lot of variables to consider as well as keeping the game interesting. Adding the additional buttons, adds complexity to the possibilities of the correct maze path. One additional aspect I would like to enhance even further would be adding different responses for each time a button is clicked. For example, if button A is clicked twice the second response would give a different response than the first click. With this aspect, then it gives this maze a layer of depth that adds another dimension to the maze. We could implement a double click as well to add even more complexity. All of these concepts came during the design of the workflow phase. Also to keep the game interesting, we will need to implement a randomized answer function that randomly selects which button path is the correct so the user does not know the correct path after first correct run through.
