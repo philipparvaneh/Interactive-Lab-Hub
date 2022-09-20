@@ -260,3 +260,9 @@ When going through the design phase, I had a lot of variables to consider as wel
 
 
 
+
+https://user-images.githubusercontent.com/111994216/191156922-de598164-34dc-4c8e-b6d9-27f327fd744d.mov
+
+
+
+
