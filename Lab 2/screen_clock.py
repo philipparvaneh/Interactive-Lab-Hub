@@ -4,6 +4,8 @@ import digitalio
 import board
 from PIL import Image, ImageDraw, ImageFont
 import adafruit_rgb_display.st7789 as st7789
+from adafruit_rgb_display.rgb import color565
+
 
 # Configuration for CS and DC pins (these are FeatherWing defaults on M0/M4):
 cs_pin = digitalio.DigitalInOut(board.CE0)
@@ -60,20 +62,51 @@ backlight = digitalio.DigitalInOut(board.D22)
 backlight.switch_to_output()
 backlight.value = True
 
+buttonA = digitalio.DigitalInOut(board.D23)
+buttonB = digitalio.DigitalInOut(board.D24)
+buttonA.switch_to_input()
+buttonB.switch_to_input()
+
 while True:
     # Draw a black filled box to clear the image.
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
+    if buttonA.value and buttonB.value:
+        m1 = "Want to know the time??"
+        m2 = "I'll tell you..."
+        y = top
+        draw.text((x,y), m1, font=font, fill="#FFFF00")
+        y += font.getsize(m1)[1]
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
+    if buttonB.value and not buttonA.value:  # just button A pressed
+        m1 = "Sorry better luck"
+        m2 = "next time XD"
+        y = top
+        draw.text((x,y), m1, font=font, fill="#FFFF00")
+        y += font.getsize(m1)[1]
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
+    if buttonA.value and not buttonB.value:  # just button B pressed
+        m1 = "Hahaha nope"
+        m2 = "keep going"
+        y = top
+        draw.text((x,y), m1, font=font, fill="#FFFF00")
+        y += font.getsize(m1)[1]
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
+    if not buttonA.value and not buttonB.value:  # both pressed
+        m1 = "Congrats!!"
+        m2 = "The time is: "
+        m3 = time.strftime("%m/%d/%Y")
+        m4 = time.strftime("%H:%M:%S")
+        y = top
+        draw.text((x,y), m1, font=font, fill="#FFFF00")
+        y += font.getsize(m1)[1]
+        draw.text((x,y), m2, font=font, fill="#FFFF00")
+        y += font.getsize(m2)[1]
+        draw.text((x,y), m3, font=font, fill="#0000FF")
+        y += font.getsize(m3)[1]
+        draw.text((x,y), m4, font=font, fill="#0000FF")
 
-    m1 = time.strftime("%m/%d/%Y")
-    m2 = time.strftime("%H:%M:%S")
-    y = top
-    draw.text((x,y), m1, font=font, fill="#FFFF00")
-    y += font.getsize(m1)[1]
-    draw.text((x,y), m2, font=font, fill="#0000FF")
-    y += font.getsize(m2)[1]
-
-    # Display image
+    # Display image.
     disp.image(image, rotation)
     time.sleep(1)
