@@ -72,11 +72,10 @@ while True:
     draw.rectangle((0, 0, width, height), outline=0, fill=0)
 
     #TODO: Lab 2 part D work should be filled in here. You should be able to look in cli_clock.py and stats.py 
-    m0 = "Welcome to the Find the Time Clock"
+    m0 = "Find the Time Clock"
     m1 = "Want to play a game?"
-    m2 = "Will you be able to find the time?"
-    m3 = "Press A --> Yes"
-    m4 = "Press B --> No"
+    m2 = "Press A --> Yes"
+    m3 = "Press B --> No"
     start_game = 0
     y = top
     draw.text((x,y), m0, font=font, fill="#FFFF00")
@@ -86,13 +85,11 @@ while True:
     draw.text((x,y), m2, font=font, fill="#FFFF00")
     y += font.getsize(m2)[1]
     draw.text((x,y), m3, font=font, fill="#FFFF00")
-    y += font.getsize(m3)[1]
-    draw.text((x,y), m4, font=font, fill="#FFFF00")
 
     if buttonB.value and not buttonA.value:
         start_game = 1
 
-    while start_game > 0:
+    while start_game == 1:
         if buttonA.value and buttonB.value:
             m1 = "Want to know the time??"
             m2 = "I'll tell you..."
