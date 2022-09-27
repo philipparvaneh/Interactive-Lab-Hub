@@ -124,6 +124,44 @@ Write out what you imagine the dialogue to be. Use cards, post-its, or whatever 
 
 \*\***Please describe and document your process.**\*\*
 
+
+User: Good Morning Mr. CooL Smart Fridge (MCSF), please provide morning updates
+
+
+
+MCSF: Good morning [user name], Today is Monday 9:30 AM, Sept. 26th 2022. There will be 10% of rain at 1:15 PM with a high of 82 degrees F* and low of 68 F*. Would you like to know anything else?
+
+
+
+User: Yes, please provide me with grocery list updates.
+
+
+
+MCSF: Ok [user name], no problem. The following items are close to expiring: milk expires tomorrow, OJ expires on 9/30, yogurt expires on 9/30. The following items are running low: 2/12 eggs left, 1 apple left out of 4 last order. Would you like me to re-order these items?
+
+
+
+User: Yes, please order milk, yogurt and eggs. 
+
+
+
+MCSF: Ok, ordering 1 milk cartoon, 1 greek yogurt, and 1 carton of eggs from Wholefood Delivery. Your total is $9.72, would you like me to place the order?
+
+
+
+User: Yes place order.
+
+
+
+MSCF: Confirmed, order total is $9.72 and paid with Apple Pay. Receipt sent to e-mail. Order will be delivered tomorrow 9/27 at 12:00 pm. Is there anything else I can help you with?
+
+
+
+User: No thats all thank you!
+
+
+
+
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
