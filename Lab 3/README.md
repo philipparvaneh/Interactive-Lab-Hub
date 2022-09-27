@@ -1,5 +1,9 @@
 # Chatterboxes
-**NAMES OF COLLABORATORS HERE**
+**Worked with: **
+
+
+**LINEKER ONO-LOZANO**
+
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
@@ -107,15 +111,76 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
+
+
+![storyboard0](https://user-images.githubusercontent.com/111994216/192409924-cb6696d5-ea79-4ad2-bbd6-daaf2bfe3600.png)
+
+![storyboard1](https://user-images.githubusercontent.com/111994216/192409930-3d9b0572-503d-451a-888d-26ad2fa1da5e.png)
+
+![Page1](https://user-images.githubusercontent.com/111994216/192413174-b6d63741-e435-4b81-be7f-f943090d746a.jpg)
+
+![Page2](https://user-images.githubusercontent.com/111994216/192413187-b4ffdc22-b5d7-437d-b5ab-e9b3a6251806.jpg)
+
+![Verplank Lab 3](https://user-images.githubusercontent.com/111994216/192413191-0a5953dc-2232-4642-80de-004e5b8078a0.jpg)
+
+
 Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
 
 \*\***Please describe and document your process.**\*\*
+
+
+User: Good Morning Mr. CooL Smart Fridge (MCSF), please provide morning updates
+
+
+
+MCSF: Good morning [user name], Today is Monday 9:30 AM, Sept. 26th 2022. There will be 10% of rain at 1:15 PM with a high of 82 degrees F* and low of 68 F*. Would you like to know anything else?
+
+
+
+User: Yes, please provide me with grocery list updates.
+
+
+
+MCSF: Ok [user name], no problem. The following items are close to expiring: milk expires tomorrow, OJ expires on 9/30, yogurt expires on 9/30. The following items are running low: 2/12 eggs left, 1 apple left out of 4 last order. Would you like me to re-order these items?
+
+
+
+User: Yes, please order milk, yogurt and eggs. 
+
+
+
+MCSF: Ok, ordering 1 milk carton, 1 greek yogurt, and 1 carton of eggs from Wholefood Delivery. Your total is $9.72, would you like me to place the order?
+
+
+
+User: Yes place order.
+
+
+
+MSCF: Confirmed, order total is $9.72 and paid with Apple Pay. Receipt sent to e-mail. Order will be delivered tomorrow 9/27 at 12:00 pm. Is there anything else I can help you with?
+
+
+
+User: No thats all thank you!
+
+
+
 
 ### Acting out the dialogue
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
+
+https://user-images.githubusercontent.com/111994216/192414446-8ac89568-1608-4571-a6de-1a2c704bf77c.mp4
+
+Read script with (friend) Luca
+
+
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+The script went pretty much as we thought it would. The one thing we noticed from the script dry run was the user with very limited knowledge of the product did not know the full features the smart fridge had to offer. The user was also a little confused how to being the interaction with the device.
+
+
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
