@@ -145,7 +145,7 @@ User: Yes, please order milk, yogurt and eggs.
 
 
 
-MCSF: Ok, ordering 1 milk cartoon, 1 greek yogurt, and 1 carton of eggs from Wholefood Delivery. Your total is $9.72, would you like me to place the order?
+MCSF: Ok, ordering 1 milk carton, 1 greek yogurt, and 1 carton of eggs from Wholefood Delivery. Your total is $9.72, would you like me to place the order?
 
 
 
