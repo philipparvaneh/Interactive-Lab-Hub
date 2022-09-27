@@ -170,6 +170,12 @@ User: No thats all thank you!
 
 Find a partner, and *without sharing the script with your partner* try out the dialogue you've designed, where you (as the device designer) act as the device you are designing.  Please record this interaction (for example, using Zoom's record feature).
 
+
+https://user-images.githubusercontent.com/111994216/192414446-8ac89568-1608-4571-a6de-1a2c704bf77c.mp4
+
+
+
+
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
 ### Wizarding with the Pi (optional)
