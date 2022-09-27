@@ -173,10 +173,14 @@ Find a partner, and *without sharing the script with your partner* try out the d
 
 https://user-images.githubusercontent.com/111994216/192414446-8ac89568-1608-4571-a6de-1a2c704bf77c.mp4
 
-
+Read script with (friend) Luca
 
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
+
+The script went pretty much as we thought it would. The one thing we noticed from the script dry run was the user with very limited knowledge of the product did not know the full features the smart fridge had to offer. The user was also a little confused how to being the interaction with the device.
+
+
 
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
