@@ -274,6 +274,8 @@ Try to get at least two people to interact with your system. (Ideally, you would
 
 https://drive.google.com/file/d/1lSMY05v_kubuKBGRMjJwcFUTi2RaeUYc/view?usp=sharing
 
+https://drive.google.com/file/d/13CworlPMpkLGp6WyuMnZyoAN4LfP8AmK/view?usp=sharing
+
 Answer the following:
 
 ### What worked well about the system and what didn't?
@@ -289,7 +291,7 @@ What Didn't Work
 ### What worked well about the controller and what didn't?
 
 \*\*What Worked Well:
-- Issues with code technically, improvised with 3-rd person narrating as smart fridge so easier for testing dialogue  
+- improvised with 3-rd person narrating as smart fridge so easier for testing dialogue  
 
 What Didn't Work
 - Glitchy and buggy when working
