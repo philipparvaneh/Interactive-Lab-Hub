@@ -194,15 +194,75 @@ For Part 2, you will redesign the interaction with the speech-enabled device usi
 ## Prep for Part 2
 
 1. What are concrete things that could use improvement in the design of your device? For example: wording, timing, anticipation of misunderstandings...
+
+\*\*We imagine the conversation happening on a phone or device with a screen, confirmation of what is being asked on the screen would be ideal, it would ensure that the requested groceries be easily confirmed.
+
+Timing would also have to be improved, as the device is a bit slow in recognizing the words.
+
+Lastly, understanding when the device is done speaking would be beneficial. Additionally, letting the user know that the device wants more input needs to be written in.\*\*
+
 2. What are other modes of interaction _beyond speech_ that you might also use to clarify how to interact?
+
+\*\*Since we imagine the device to have a screen we would use visual confirmation as the main form of clarification. However, voice recognition is for convenience, so we would create a device that repeats the request to the user, be it what is in the fridge or what is being ordered.\*\*
+
 3. Make a new storyboard, diagram and/or script based on these reflections.
+
+\*\* User and Mr. CooL Smart Fridge (MCSF) on 1st Use
+
+User: Hello Mr. CooL Smart Fridge
+
+MCSF: Hello, you can call me fridge or you can change my nickname in settings. I have a range of uses, you can check the contents of the  fridge or you can order more groceries by connecting one of your accounts. I don't want to bore you so how can I help you?
+
+User: Fridge, do I need to do anything else to setup the fridge?
+
+MCSF: No, I am ready to start registering your groceries and your shopping account is already connected.
+
+User: Ok thanks.
+
+
+User and Mr. CooL Smart Fridge (MCSF) on Regular Use
+
+User: Hi fridge, can you tell me what groceries I have?
+
+MCSF: Half a gallon of whole milk, a tub of fat free greek yogurt, a pint of rasberries, and a bag of spring mix, anything else I can help you with?
+
+User: Is anything expiring soon?
+
+MCSF: The spring mix expires in four days, everything else has over 1 week left. Anything else I can help you with?
+
+User: Sure, can you order more spring mix and a some apples?
+
+MCSF: I have one bag of spring mix and 1 pound of apples for $10.54 tomorrow for your preferred morning time, would you like me to place the order?
+
+User: Am I getting free shipping?
+
+MCSF: With your grocery prime account you are, would you like me to place the order for $10.54 at tomorrows preferred morning time?
+
+User: Yes, thank you!
+
+MCSF: Order placed, the receipt has been emailed. Your order will arrive tomorrow from 7 to 9 AM. Anything else I can do?
+
+User: No thanks!
+
+
+User and Mr. CooL Smart Fridge (MCSF) on Ordering from the phone at the grocery store
+
+User: Hi fridge, I'm shopping, can you tell me if I have milk, eggs, and bacon?
+
+MCSF: You have a quart of 2% milk, 1/2 gallon of oat milk, 4 of 12 eggs and half a packet of bacon. Is there anything else you'd like me to check?
+
+User: How full is the oat milk?
+
+MCSF: By my estimates it is at half the bottle, so 1/4 a gallon or 4 cups. Is there anything else?
+
+User: No thanks!\*\*
 
 ## Prototype your system
 
 The system should:
-* use the Raspberry Pi 
+* use the Raspberry Pi
 * use one or more sensors
-* require participants to speak to it. 
+* require participants to speak to it.
 
 *Document how the system works*
 
@@ -214,18 +274,32 @@ Try to get at least two people to interact with your system. (Ideally, you would
 Answer the following:
 
 ### What worked well about the system and what didn't?
-\*\**your answer here*\*\*
+\*\* What Worked Well:
+- The concept is simple enough that people understand it
+- Used Alexa style of communication
+
+What Didn't Work
+- Concept still too open ended
+- The full device didn't work smoothly
+- Proximity sensor required very close proximity to start working\*\*
 
 ### What worked well about the controller and what didn't?
 
-\*\**your answer here*\*\*
+\*\*What Worked Well:
+- N/A
+
+What Didn't Work
+- Glitchy and buggy when working
+- As we added the proximity sensor we hit a bug and could not find it in time\*\*
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-\*\**your answer here*\*\*
+\*\*
+- Using protocols that are used by other devices (Alexa, Siri, etc) works well as a lot of people are use to those types of devices.
+- \*\*
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-\*\**your answer here*\*\*
-
+\*\*
+- \*\*
