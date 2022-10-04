@@ -286,7 +286,7 @@ What Didn't Work
 ### What worked well about the controller and what didn't?
 
 \*\*What Worked Well:
-- N/A
+- Issues with code technically, improvised with 3-rd person narrating as smart fridge so easier for testing dialogue  
 
 What Didn't Work
 - Glitchy and buggy when working
@@ -300,6 +300,8 @@ What Didn't Work
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
+For this system, the way we imagine to implement an ML algorithm is with the recipe suggestions feature. Everytime a user takes an item out of the fridge, let's say to make an omelet in the morning. The fridge would collect that dataset, with a timestamp knowing this product is often used in the morning suggesting breakfast meal. It would also notice that the ingredients taken out were the eggs, milk, cheese, peppers, and onions. Now the fridge would know, you like omelets in the morning based on those ingredients and can suggest that meal if it has the inventory in the fridge. 
+
 
 \*\*
 - \*\*
