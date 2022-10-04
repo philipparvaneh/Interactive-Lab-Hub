@@ -271,6 +271,9 @@ The system should:
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
 
+
+https://drive.google.com/file/d/1lSMY05v_kubuKBGRMjJwcFUTi2RaeUYc/view?usp=sharing
+
 Answer the following:
 
 ### What worked well about the system and what didn't?
