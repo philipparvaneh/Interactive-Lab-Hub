@@ -252,6 +252,7 @@ The powering of the device came into question when thoroughly going through prot
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+We decided to go furhter with the joystick sensor/design
 
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
 
