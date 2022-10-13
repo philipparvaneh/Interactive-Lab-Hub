@@ -178,14 +178,23 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
+
+![image1](https://user-images.githubusercontent.com/111994216/195489190-768491ee-137c-4b96-b913-6d285b577cc3.jpeg)
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+
 For the proximity sensor, the accuracy and range of the device can be questioned when thinking of these designs. How far would a user be until the sensor is able to detect at a certain level of certainty? For one concept, we wanted it to take a reading through a material like glass and wondered the challenge that might face when implementing. 
+
 
 When physically prototyping we need to account for where the location of the sensors are being placed and the angle of detection we are using when interacting with a user.
 
 
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
+
+We decided to go forward with the interactive doorbell
 
 
 ### Part D
@@ -227,6 +236,9 @@ Here is an example:
 Think about how you want to present the information about what your sensor is sensing! Design a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
  
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
+
+![image0](https://user-images.githubusercontent.com/111994216/195489241-65491b0e-c034-456f-8940-35c861514f9d.jpeg)
+
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
