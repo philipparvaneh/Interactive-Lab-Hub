@@ -180,6 +180,10 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
+For the proximity sensor, the accuracy and range of the device can be questioned when thinking of these designs. How far would a user be until the sensor is able to detect at a certain level of certainty? For one concept, we wanted it to take a reading through a material like glass and wondered the challenge that might face when implementing. 
+When physically prototyping we need to account for where the location of the sensors are being placed and the angle of detection we are using when interacting with a user.
+
+
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
 
