@@ -181,7 +181,7 @@ Usually, sensors need to positioned in specific locations or orientations to mak
 
 
 ![image1](https://user-images.githubusercontent.com/111994216/195489190-768491ee-137c-4b96-b913-6d285b577cc3.jpeg)
-
+![IMG_7089](https://user-images.githubusercontent.com/111994216/195489847-cd3cad95-911f-4be1-8c42-965077fbe7eb.jpeg)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
@@ -241,6 +241,8 @@ Think about how you want to present the information about what your sensor is se
 ![image0](https://user-images.githubusercontent.com/111994216/195489241-65491b0e-c034-456f-8940-35c861514f9d.jpeg)
 
 
+
+
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
 
@@ -250,11 +252,20 @@ The powering of the device came into question when thoroughly going through prot
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
+
 **\*\*\*Explain the rationale for the design.\*\*\*** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+
+We chose the joystick design mostly because it was the most entertaining for the user. We believed users would find this interaction the most enjoyable if they wanted an interaction with the device. We also believe that with this design it gives the user the most options to protect their passwords with many different combinations available. From a button perspective, user would only have one input option to multiplate the User Interface, where as, the joystick the user could use a magnitude of different directions and combinations.
+
+
 
 Build a cardbord prototype of your design.
 
 **\*\*\*Document your rough prototype.\*\*\***
+
+![IMG_7088](https://user-images.githubusercontent.com/111994216/195489902-82b1a1ad-2785-4444-8b13-7a9b9945b605.jpeg)
+
 
 
 LAB PART 2
