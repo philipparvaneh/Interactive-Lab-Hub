@@ -184,8 +184,6 @@ For the proximity sensor, the accuracy and range of the device can be questioned
 
 When physically prototyping we need to account for where the location of the sensors are being placed and the angle of detection we are using when interacting with a user.
 
-Also the powering of the device came into question when thoroughly going through prototype design. Would need to implement battery powered source of energy to power Pi.
-
 
 **\*\*\*Pick one of these designs to prototype.\*\*\***
 
@@ -231,6 +229,11 @@ Think about how you want to present the information about what your sensor is se
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
+
+
+The powering of the device came into question when thoroughly going through prototype design. Would need to implement a battery powered source of energy to power Pi. Also we would like to provide a nice UI on the screen with necessary data without looking cluttered/ aesthetically pleasing. Lastly, when drawing our different designs, we were pondering which designs a user would like best as a prototype. 
+
+
 
 **\*\*\*Pick one of these display designs to integrate into your prototype.\*\*\***
 
