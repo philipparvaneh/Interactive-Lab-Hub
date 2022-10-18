@@ -307,10 +307,26 @@ We encourage you to try using these controls, **while** paying particular attent
 ### Part F
 ### Record
 
+***** WORKED WITH PHILIP O'REGGIO ************
+
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
+
+
 * "Looks like": shows how the device should look, feel, sit, weigh, etc.
+
+
+Smaller in size, a box similar to something like a garage door opener. Large enough so that it is easy to interact with but not so large that it impedes its main function. Would be wall mounted, so the weight should be light enough to not put too much pressure on the wall it is on. It would not usually be held, so the weight of it doesn't matter too much in terms of making it comfortable for people. 
+
 * "Works like": shows what the device can do
+
+Users would be detected by the distance sensor on the front. Once the user is detected, then the user can then input in a code using the joystick on the front. They confirm the code by pressing in with the joystick. The capabilities of the device itself include the distant sensor on the front, used mainly for making the system show something on the display. It has an oled screen to be able to display what the user pressed and show other UI elements, like confirmation menus and related. The Joystick is the main source of user input, which lets the user interact with the system.
+
 * "Acts like": shows how a person would interact with the device
+
+When a user walks up to the doorway, they need to manipulate the joystick in a certain combination of motions to unlock the door and be able to pass through. By utilizing the distance sensor, the user would just need to approach the device/doorway and it will detect the presence and enable the device. Once the correct combination is entered, the green light will flash to let the user know they have successfully entered the password and now may enter; vice versa, if incorrectly done, the red light will flash and will keep the door locked.
+
+
+
 
 ![image0 (4)](https://user-images.githubusercontent.com/111994216/196325813-56215fe2-bc23-4229-b371-bf2552753e65.jpeg)
 
