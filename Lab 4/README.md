@@ -307,7 +307,7 @@ We encourage you to try using these controls, **while** paying particular attent
 ### Part F
 ### Record
 
-***** WORKED WITH PHILIP O'REGGIO ************
+***** WORKED WITH PHILLIP O'REGGIO ************
 
 Document all the prototypes and iterations you have designed and worked on! Again, deliverables for this lab are writings, sketches, photos, and videos that show what your prototype:
 
