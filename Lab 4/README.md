@@ -312,3 +312,15 @@ Document all the prototypes and iterations you have designed and worked on! Agai
 * "Works like": shows what the device can do
 * "Acts like": shows how a person would interact with the device
 
+![image0 (4)](https://user-images.githubusercontent.com/111994216/196325813-56215fe2-bc23-4229-b371-bf2552753e65.jpeg)
+
+
+![image5](https://user-images.githubusercontent.com/111994216/196325783-2144505b-dc49-4843-ac65-1c92861402f2.jpeg)
+
+![image1 (2)](https://user-images.githubusercontent.com/111994216/196325804-01546aba-fe62-4948-adab-7aeeb35a69ed.jpeg)
+
+
+
+https://user-images.githubusercontent.com/111994216/196325831-5861f948-5519-4bf2-a2de-49888ded72be.mov
+
+
