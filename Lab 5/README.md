@@ -221,9 +221,7 @@ For the contour-detection example, one design use-case we saw fit would be an au
 
 
 
-
-
-
+<img width="1043" alt="Screen Shot 2022-10-24 at 8 09 10 PM" src="https://user-images.githubusercontent.com/111994216/197673042-c3665b69-8a64-4432-928d-2bd6f9e17884.png">
 
 
 
@@ -236,12 +234,7 @@ Face-Detection
 For the facial recognition example, one design we believe is a benefit of this algorithm is a mask recognition application. This idea will identify if people entering a room have a mask on their face or if the mask is not on like seen above. The user would be notified if they can enter with their mask securely on or will notify the user to put a mask on before entering the room.
 
 
-
-
-
-
-
-
+<img width="1079" alt="Screen Shot 2022-10-24 at 8 13 41 PM" src="https://user-images.githubusercontent.com/111994216/197673063-c32e5875-b77f-4bdc-8ca8-eb1214823056.png">
 
 
 
@@ -256,6 +249,13 @@ For the facial recognition example, one design we believe is a benefit of this a
 Optical Flow
 
 For optical flow, this could be used to collect data on the flow of people or traffic. One thing I can think of is if we mounted the camera looking between the intersection of the house, Tata and Bloomberg, it could give a visualization of seeing what classes are beginning and ending judging from how people move between the buildings.
+
+<img width="779" alt="Screen Shot 2022-10-24 at 11 05 40 PM" src="https://user-images.githubusercontent.com/111994216/197673155-dc25b8c6-9336-4751-bd6f-ac63c0e3c0e4.png">
+
+
+Object-Detection
+
+<img width="775" alt="Screen Shot 2022-10-24 at 11 05 32 PM" src="https://user-images.githubusercontent.com/111994216/197673370-9a44d52f-89e4-4c92-87b6-8a1a452bd4ec.png">
 
 
 For the object detection one, we could make a type of sorting robot. It would identify the sizes of different objects in the room, and use that to move things so that they are arranged in order of size, or however the user specifies.
