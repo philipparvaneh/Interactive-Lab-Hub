@@ -1,7 +1,7 @@
 # Little Interactions Everywhere
 
-**NAMES OF COLLABORATORS HERE**
-LINEKER ONO-LOZANO
+**LINEKER ONO-LOZANO**
+
 
 
 ## Prep
