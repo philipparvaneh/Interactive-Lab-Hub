@@ -1,6 +1,8 @@
 # Little Interactions Everywhere
 
 **NAMES OF COLLABORATORS HERE**
+LINEKER ONO-LOZANO
+
 
 ## Prep
 
@@ -88,6 +90,16 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 **\*\*\*Consider how you might use this messaging system on interactive devices, and draw/write down 5 ideas here.\*\*\***
 
+
+
+Gambling: a bookie can handle and input bets and someone else can see and process the physical cash
+Mining: an IoT device measures toxicity levels and sends a message if above a certain level
+Garbage Dumpster: Sends a message to a truck to empty the full dumpster
+Security Gate: sends a message to a security guard that someone has entered through an entryway 
+Pet Care: IoT device measures the water level in a dog bowl and messages the owner when it’s running low
+
+
+
 ### Part C
 ### Streaming a Sensor
 
@@ -108,6 +120,15 @@ Plug in the capacitive sensor board with the Qwiic connector. Use the alligator 
  ```
 
 **\*\*\*Include a picture of your setup here: what did you see on MQTT Explorer?\*\*\***
+
+
+
+
+![IMG_6079](https://user-images.githubusercontent.com/111994216/200466196-6c09e16e-961c-4417-9019-1fae757ed20f.JPG)
+
+
+
+
 
 **\*\*\*Pick another part in your kit and try to implement the data streaming with it.\*\*\***
 
@@ -144,6 +165,14 @@ Of course not! You can go to [https://one-true-colornet.glitch.me/](https://one-
 **\*\*\*Can you set up the script that can read the color anyone else publish and display it on your screen?\*\*\***
 
 
+
+
+![IMG_6080](https://user-images.githubusercontent.com/111994216/200466313-d70936f1-658b-4ceb-a461-90ae40e8788d.JPG)
+
+
+
+
+
 ### Part E
 ### Make it your own
 
@@ -151,11 +180,29 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **\*\*\*1. Explain your design\*\*\*** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
+
+We want to have a gambling system where the bookie takes a bet in a physical location and sends bet information to the money manager in a secure vault. This way there is a separation of bets and the actual handling of cash.
+
+
+
+
 **\*\*\*2. Diagram the architecture of the system.\*\*\*** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+
+
+
+
+![IMG_6081](https://user-images.githubusercontent.com/111994216/200466429-04c87ebd-9d89-40b2-928d-e2cdfc0f3854.JPG)
+
+
+
 
 **\*\*\*3. Build a working prototype of the system.\*\*\*** Do think about the user interface: if someone encountered these bananas somewhere in the wild, would they know how to interact with them? Should they know what to expect?
 
 **\*\*\*4. Document the working prototype in use.\*\*\*** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
 
-<!--**\*\*\*5. BONUS (Wendy didn't approve this so you should probably ignore it)\*\*\*** get the whole class to run your code and make your distributed system BIGGER.-->
+
+
+https://drive.google.com/file/d/1QGtA6XJOOsRwcRx-YYoXhHUoySAg09ji/view?usp=sharing
+
+
 
