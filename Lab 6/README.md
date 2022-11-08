@@ -92,11 +92,26 @@ Once connected, you should be able to see all the messages under the IDD topic. 
 
 
 
-Gambling: a bookie can handle and input bets and someone else can see and process the physical cash
-Mining: an IoT device measures toxicity levels and sends a message if above a certain level
-Garbage Dumpster: Sends a message to a truck to empty the full dumpster
-Security Gate: sends a message to a security guard that someone has entered through an entryway 
-Pet Care: IoT device measures the water level in a dog bowl and messages the owner when it’s running low
+1) Gambling: a bookie can handle and input bets and someone else can see and process the physical cash
+
+
+
+2) Mining: an IoT device measures toxicity levels and sends a message if above a certain level
+
+
+
+3) Garbage Dumpster: Sends a message to a truck to empty the full dumpster
+
+
+
+4) Security Gate: sends a message to a security guard that someone has entered through an entryway 
+
+
+
+5) Pet Care: IoT device measures the water level in a dog bowl and messages the owner when it’s running low
+
+
+
 
 
 
