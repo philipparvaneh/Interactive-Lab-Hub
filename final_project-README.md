@@ -19,11 +19,29 @@ Write-up and documentation due - December 12
 ## Deliverables
 
 1. Project plan: Big idea, timeline, parts needed, fall-back plan.
+
+
+
    --Big Idea: Utilizing our Raspberry Pi devices, we will be creating a working UWB sensor that can mount in a room to pinpoint Big Red's location within that area.
+   
+   
+   
    --Timeline: Order sensor, setup configuration with pi, test signal, run experiment, review results, integrate with a phone, reiterate
+   
+   
+   
    --Parts Needed: 3 UWB sensors (already ordered), raspberry pi
+   
+   
+   
    --Risks/ Contingencies: Power supply, failure to recognize device/users, possible compatibility error
+   
+   
+   
    --Fall-Back Plan: Research other possible UWB sensors to use, use Wifi instead of UWB
+   
+   
+   
    
 ---------------------------------------------------------------------------------------------------------------
 
