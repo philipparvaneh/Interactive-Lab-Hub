@@ -1,6 +1,6 @@
 # Final Project
 # TEAM: WHERE'S BIG RED?
-# MEMBERS: Lineker Ono-Lozano, Tony Wan, Ravi Niteesh Voleti
+# MEMBERS: Lineker Ono-Lozano, Tony Wan, Ravi Niteesh Voleti, Philip Parvaneh
 
 
 Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
