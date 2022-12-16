@@ -3,18 +3,6 @@
 # MEMBERS: Lineker Ono-Lozano, Tony Wan, Ravi Niteesh Voleti, Philip Parvaneh
 
 
-Using the tools and techniques you learned in this class, design, prototype and test an interactive device.
-
-Project plan - November 15
-
-Peer feedback on Project plans: November 17
-
-Functional check-off - November 29 & December 1
-
-Final Project Presentations - December 6
-
-Write-up and documentation due - December 12
-
 
 ## Deliverables
 
