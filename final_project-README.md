@@ -44,8 +44,6 @@ Video:
 
 https://drive.google.com/file/d/1K3N6vAUMsIkReDxYst52HrPbW2mz3GPN/view?usp=sharing
 
-Code (zip):
+Code :
 
-
-https://github.com/philipparvaneh/Interactive-Lab-Hub/blob/Fall2022/Modified_Qorvo_Spatial_Interactions_Accessories.zip
 
