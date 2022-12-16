@@ -45,10 +45,7 @@ Write-up and documentation due - December 12
    
 ---------------------------------------------------------------------------------------------------------------
 
+## Documentation 
+![WhatsApp Image 2022-12-16 at 3 43 24 AM](https://user-images.githubusercontent.com/111994216/208128447-66cd8f7f-a7de-4115-acc3-916cb22ba04a.jpeg)
+![WhatsApp Image 2022-12-15 at 3 49 54 PM](https://user-images.githubusercontent.com/111994216/208128454-d5a87c96-63bb-48cf-89be-7a73d4af1890.jpeg)
 
-3. Functioning project: The finished project should be a device, system, interface, etc. that people can interact with.
-4. Documentation of design process
-5. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
-6. Video of someone using your project
-7. Reflections on process (What have you learned or wish you knew at the start?)
-7. Group work distribution questionnaire
