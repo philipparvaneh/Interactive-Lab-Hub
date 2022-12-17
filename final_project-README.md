@@ -68,6 +68,14 @@ We also added directional navigation by pulling on the compass from the iPhone.
 We can have the application direct the user toward the target using distance and directionality. 
 
 
+![WhatsApp Image 2022-12-16 at 7 10 05 PM](https://user-images.githubusercontent.com/111994216/208213455-eb40a809-2053-475d-b644-fb694a0c2e83.jpeg)
+
+![WhatsApp Image 2022-12-16 at 7 10 15 PM](https://user-images.githubusercontent.com/111994216/208213460-c809245f-8359-4b04-aa76-b17a373fa18e.jpeg)
+
+
+![WhatsApp Image 2022-12-16 at 7 10 25 PM](https://user-images.githubusercontent.com/111994216/208213462-33a02ad6-dd1c-49f8-81a8-2ca7516d51c5.jpeg)
+
+
 
 
 Video:
